@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BreakingBad</string>
+
+    <string name="search_hint">Find a character by name</string>
+
+    <string name="error_input_name">Input a valid name</string>
+    <string name="error_loading_characters">Error loading characters</string>
+
+    <string name="warning_empty_characters">There are no characters</string>
+
+    <string name="filter_title">Choose season</string>
+    <string name="filter_all">All seasons</string>
+    <string name="filter_1">Season 1</string>
+    <string name="filter_2">Season 2</string>
+    <string name="filter_3">Season 3</string>
+    <string name="filter_4">Season 4</string>
+    <string name="filter_5">Season 5</string>
+    <string name="label_seasons">Seasons: %s</string>
+</resources>
